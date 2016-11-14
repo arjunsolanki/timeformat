@@ -10,8 +10,9 @@ Gem::Specification.new do |spec|
   spec.email         = ["yasharjunsolanki@gmail.com"]
 
   spec.summary       = %q{This gem use for time format.}
-  spec.description   = %q{TODO: Write a longer description or delete this line.}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.description   = %q{You can pass the time format in "process" method which you want to get. It's so simple. }
+  spec.homepage      = ""
+  spec.license       = "ruby"
 
   # Prevent pushing this gem to RubyGems.org by setting 'allowed_push_host', or
   # delete this section to allow pushing this gem to any host.
